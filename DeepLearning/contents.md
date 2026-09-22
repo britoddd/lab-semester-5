@@ -8,7 +8,8 @@
 - Multi Layer Perceptron (MLP)
 - Plot Metrics (Accuracy & Loss)
 
-## Session 2
+## [Session 2](https://github.com/britoddd/lab-semester-5/tree/main/DeepLearning/2_Regression)
 **Date:** 15 September 2026  
-**Lecturer:**   
+**Lecturer:** AS242  
 **Material:**  
+- Regression Model
